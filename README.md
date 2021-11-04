@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RanioYang
-- 👀 I’m interested in ML
+- 👀 My intesrst is focusing on ML
 - 🌱 I’m currently learning at UoE
 - 💞️ I’m looking to collaborate on REFVOS
